@@ -72,3 +72,10 @@ NAMA                          PAKET                  PEMBAYARAN                 
 65. RISKI FIRMANDA           150.000                22 JULI                       LUNAS
 66. RINA                     150.000                28 AGUSTUS                    BELUM LUNAS
     
+
+
+
+
+
+
+remote TV  : 1 534 288 460
