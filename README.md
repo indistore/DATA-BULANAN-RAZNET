@@ -68,8 +68,7 @@ NAMA                          PAKET                  PEMBAYARAN                 
 61. WAWAN                    150.000                24 JULI                       LUNAS
 62. KAK TIA                  150.000                15 JUNI                       BELUM LUNAS ( DOUBLE BULAN AGUSTUS )
 63. GG PONDOK                150.000                20 JULI                       PASANG BARU
-64. HANIF                    200.000                28 JUNI                       LUNAS
+64. HANIF                    200.000                 1 AGUSTUS                    BELUM LUNAS
 65. RISKI FIRMANDA           150.000                22 JULI                       LUNAS
-
-67. SAFTSOF
-68.            
+66. RINA                     150.000                28 AGUSTUS                    BELUM LUNAS
+    
