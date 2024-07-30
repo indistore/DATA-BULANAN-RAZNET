@@ -79,3 +79,12 @@ NAMA                          PAKET                  PEMBAYARAN                 
 
 
 remote TV  : 1 534 288 460
+
+FS        :  raznet11
+             K@menk11
+
+EPON      :  admin
+             K@menk
+
+RB450gx   :       id-38.hostddns.us:3030
+OLT       :       id-34.hostddns.us:12741
