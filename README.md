@@ -59,7 +59,7 @@ NAMA                          PAKET                  PEMBAYARAN                 
 52. TEMEN YA ADEL            150.000                29 JUNI                       LUNAS
 53. DIDIN NASI GORENG        200.000                20 JUNI                       LUNAS
 54. QRISS                    150.000                1 JUNI                        LUNAS
-55. SAFSOFT GALON            150.000                29 JUNI                       PASANG BARU
+55. iman SAFSOF GALON        150.000                30 JUNI                       PASANG BARU
 56. PAK RT FAI               150.000                15 JUNI                       BELUM LUNAS ( DOUBLE DI BULAN AGUSTUS )
 57. BANG DAY                 150.000                28 JUNI                       LUNAS
 58. NASI UDUK                150.000                10 JUNI                       LUNAS
