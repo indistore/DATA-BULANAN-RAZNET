@@ -15,7 +15,7 @@ NAMA                          PAKET                  PEMBAYARAN                 
 8. ES TELER                  200.000                 NULL                         NULL
 9. BAKOY                     150.000                 NULL                         NULL
 10. ANI                      150.000                 MBAK YUU                     MBAK YUU
-11. NONI                     150.000                 NULL                         NULL.
+11. NONI                     150.000                 29 JULI                      LUNAS
 12. SERVER SILO ( 8 )        -------                 --------                     -------
 13. EKA                      150.000                 16 JULI                      LUNAS
 14. AGUS (2 )                200.000                 14 JULI                      LUNAS
