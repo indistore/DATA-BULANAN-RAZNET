@@ -29,7 +29,7 @@ NAMA                          PAKET                  PEMBAYARAN                 
 22. IBU LILY                 150.000                   JULI                       PASANG BARU
 23. FERDI                    150.000                   JULI                       NULL
 24. PIAN                     150.000                   NULL                       NULL
-25. GIGI                     150.000                28 JULI                       BELUM LUNAS
+25. GIGI                     150.000                28 JULI                       LUNAS
 26. COUNTER TAGOR            150.000                28 JULI                       BELUM LUNAS
 27. BROTO                    150.000                 5 JULI                       LUNAS
 28. AHMAD ALFAN              150.000                   JULI                       BELUM LUNAS
