@@ -13,7 +13,7 @@ NAMA                          PAKET                  PEMBAYARAN                 
 6. BUNDA IMAH                150.000                 NULL                         NULL
 7. OM RANDY                  100.000                 1  JUNI                      BELUM LUNAS
 8. ES TELER                  200.000                 NULL                         LNULL
-9. BAKOY                     150.000                 NULL                         NULL
+9. BAKOY                     150.000                  2 JULI                      BELUM LUNAS
 10. ANI                      150.000                 MBAK YUU                     MBAK YUU
 11. NONI                     150.000                 29 JULI                      LUNAS
 12. SERVER SILO ( 8 )        -------                 --------                     -------
