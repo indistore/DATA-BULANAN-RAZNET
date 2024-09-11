@@ -86,6 +86,14 @@ FS        :  raznet11
 EPON      :  admin
              K@menk
 
+
+
+NOTE :
+
+/ip route disable [find comment="ISP 2 (UTAMA)"]
+/ip dhcp-server set authoritative=yes
+
+
 RAZNET
 MIKROTIK             
 RUASS     :       us-3.hostddns.us:12960
