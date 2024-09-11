@@ -86,5 +86,30 @@ FS        :  raznet11
 EPON      :  admin
              K@menk
 
+RAZNET
+MIKROTIK             
+RUASS     :       us-3.hostddns.us:12960
 RB450gx   :       id-38.hostddns.us:3030
+
+
 OLT       :       id-34.hostddns.us:12741
+
+
+BENS
+ik 
+User : dompu
+Pass : dompu135
+
+T 
+User : BeNS
+Pass : bens135
+
+twaru1@mytunnel.id	K@menk11	id-44.hostddns.us:19515   LY./olt-bens
+mikwaru1@mytunnel.id	K@menk11	id-44.hostddns.us:19519
+
+BRIGIF
+rtcponcol@mytunnel.id	K@menk11	id-42.hostddns.us:5438
+motegpon@mytunnel.id	1234	id-42.hostddns.us:5477
+
+
+
